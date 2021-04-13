@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "971693721359",
+    "firebase_url": "https://renard-travel-apps.firebaseio.com",
+    "project_id": "renard-travel-apps",
+    "storage_bucket": "renard-travel-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971693721359:android:712449c32a3ec27a87607a",
+        "android_client_info": {
+          "package_name": "alvin.finalprojecttravelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971693721359-a70d6gd9gmkir979ceg0bi8nf7a8re0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV-3Z_V6j000763xQFMEumGhZgXbYsfkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971693721359-a70d6gd9gmkir979ceg0bi8nf7a8re0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
